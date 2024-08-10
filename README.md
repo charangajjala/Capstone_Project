@@ -66,7 +66,7 @@
    - Open a Python or Notebook file.
      Click on the Python version in the status bar at the bottom or use Ctrl+Shift+P/Cmd+Shift+P and search for "Python: Select Interpreter".
 
-   - Choose the interpreter from the "ANA_Project" environment.
+   - Choose the interpreter from the "env_name" environment.
 
 3. **Running Jupyter Notebooks**
 
